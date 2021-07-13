@@ -1,0 +1,7 @@
+public class m
+{
+public void test()
+{
+//logic
+}
+}
