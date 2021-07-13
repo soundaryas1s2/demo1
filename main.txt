@@ -3,5 +3,7 @@ public class m
 public void test()
 {
 //logic
+int i=10,20;
+
 }
 }
